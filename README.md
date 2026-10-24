@@ -16,6 +16,12 @@ Type Korean as you hear it on a familiar QWERTY layout. `annyeonghaseyo` becomes
 
 The keyboard works offline for typing, dictionaries and writing checks. GIPHY needs internet and an API key; voice typing uses the Android speech service selected on your phone. Word meanings and corrections are aids, not guaranteed translations or a full grammar model.
 
+## Get the Android app
+
+[**Download Roman Hangul for Android**](https://github.com/finalstop/roman-hangul/releases/latest/download/RomanHangul-3.3.2.apk) · [Release details](https://github.com/finalstop/roman-hangul/releases/latest)
+
+After it downloads, tap the APK and follow Android’s install prompt. If asked, allow your browser or Files app to install apps. Then open Roman Hangul, tap **Enable keyboard**, and choose it under **Select keyboard**. Android may show a standard warning because this app is installed directly rather than through the Play Store.
+
 ## Install and try
 
 The current version is **3.3.2** (Android 8.0+). Install the signed `RomanHangul-3.3.2.apk`, open the app, tap **Enable keyboard**, then **Select keyboard**. You can test it in the app or any text field:
