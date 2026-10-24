@@ -32,8 +32,6 @@ gamsahamnida    → 감사합니다
 saranghae       → 사랑해
 ```
 
-Version 3.3.2 installs over releases 3.1 and later without removing the app. Releases through 3.0 used another signing key; see [release history](docs/RELEASE-HISTORY.md) before switching from those versions. Keep the maintainer's release signing key private; it is **not** in this repository. A locally built debug APK has a different signing certificate and cannot update the signed release in place.
-
 ## Download the full source from this repository
 
 GitHub limits uploads through its web interface, so the 3.3.2 source archive is stored as two parts. Download both `RomanHangul-GitHub-ready.zip.part-*` files into one folder, then reassemble and extract them:
