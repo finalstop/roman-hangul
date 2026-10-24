@@ -1,0 +1,13 @@
+Roman Hangul 3.3.2 (versionCode 31)
+
+Install RomanHangul-3.3.2.apk over version 3.1 or later. The package and signing certificate are unchanged, so your app data is preserved.
+
+Symbols: tap ?123, then =\< to open a second page with brackets, math signs and additional symbols. Tap ?123 again to return; ABC returns to letters. The ? key remains immediately before Backspace on the first page.
+
+Hindi: the bottom-row stop key now displays । because that is what it inserts. The second symbols page also has a dedicated । key. The displayed language-specific stop is inserted when smart punctuation is disabled too.
+
+Emoji: the key uses a new consistent vector smile icon. Hold it to open stickers.
+
+Validation: 46 host suites passed, including 93 new symbol/page/language-label checks. Release build, package/version, pinned signing certificate, v2/v3 signature, alignment and assets verified.
+
+Phone checks: test both symbol pages, Hindi smart-punctuation on/off, language switching, sticker hold, and emoji key alignment in compact and one-handed layouts. No connected device/emulator was available for this build.
